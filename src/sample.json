@@ -4,19 +4,22 @@
       "imageUrl": "https://i.ibb.co/8s05pbS/amako.png",
       "title": "Who's A Mako",
       "category": "Personal Website",
-      "description": "A modern personal website for a full stack developer"
+      "description": "A modern personal website for a full stack developer",
+      "link": "amako.okamalabs.com"
     },
     {
       "imageUrl": "https://i.ibb.co/6D5zz5z/dmako.png",
       "title": "Who's Deon Mako",
       "category": "Personal Website",
-      "description": "A modern personal website for a photographer"
+      "description": "A modern personal website for a photographer",
+      "link": "dmako.okamalabs.com"
     },
     {
       "imageUrl": "https://i.ibb.co/Dt2MNfK/aesthetic.png",
       "title": "Just Aesthetic",
       "category": "Landing Page",
-      "description": "An aesthetic landing page for an upcoming clothing brand."
+      "description": "An aesthetic landing page for an upcoming clothing brand.",
+      "link": "aesthetic.okamalabs.com"
     }
   ]
 }

@@ -7,6 +7,7 @@ interface GalleryItemProps {
   title: string;
   category: string;
   description: string;
+  link: string;
 }
 
 const GalleryItem: React.FC<GalleryItemProps> = ({
@@ -14,9 +15,11 @@ const GalleryItem: React.FC<GalleryItemProps> = ({
   title,
   category,
   description,
+  link
 }) => {
   return (
     <div className="gallery-item">
+      <a href={link} target="_blank">
       <figure className="img-container">
         <img src={imageUrl} alt={title} className="gallery-image" />
         <figcaption className="img-content">
@@ -29,6 +32,7 @@ const GalleryItem: React.FC<GalleryItemProps> = ({
           <p className="description">{description}</p>
         </span>
       </figure>
+      </a>
     </div>
   );
 };
@@ -88,6 +92,7 @@ const Gallery: React.FC = () => {
               title={item.title}
               category={item.category}
               description={item.description}
+              link={item.link}
             />
           ))}
         </div>
