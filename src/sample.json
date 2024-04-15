@@ -1,0 +1,52 @@
+{
+  "site_gallery": [
+    {
+      "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+      "title": "Personal Resume Website",
+      "category": "Resume Website",
+      "description": "A sleek and modern personal resume website showcasing your skills, experience, and portfolio."
+    },
+    {
+      "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+      "title": "Product Landing Page",
+      "category": "Landing Page",
+      "description": "A visually stunning landing page for a new product launch, featuring interactive elements and clear call-to-action buttons."
+    },
+    {
+      "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+      "title": "Portfolio Showcase",
+      "category": "Portfolio Website",
+      "description": "An elegant portfolio website highlighting your best work, testimonials, and contact information to attract potential clients."
+    },
+    {
+        "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+        "title": "Personal Resume Website",
+        "category": "Resume Website",
+        "description": "A sleek and modern personal resume website showcasing your skills, experience, and portfolio."
+      },
+      {
+        "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+        "title": "Product Landing Page",
+        "category": "Landing Page",
+        "description": "A visually stunning landing page for a new product launch, featuring interactive elements and clear call-to-action buttons."
+      },
+      {
+        "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+        "title": "Portfolio Showcase",
+        "category": "Portfolio Website",
+        "description": "An elegant portfolio website highlighting your best work, testimonials, and contact information to attract potential clients."
+      },
+      {
+        "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+        "title": "Product Landing Page",
+        "category": "Landing Page",
+        "description": "A visually stunning landing page for a new product launch, featuring interactive elements and clear call-to-action buttons."
+      },
+      {
+        "imageUrl": "https://picsum.photos/website/picsum/1000/750",
+        "title": "Portfolio Showcase",
+        "category": "Portfolio Website",
+        "description": "An elegant portfolio website highlighting your best work, testimonials, and contact information to attract potential clients."
+      }
+  ]
+}
