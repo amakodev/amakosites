@@ -148,7 +148,7 @@ body {
   position: relative;
   overflow: hidden;
   flex: auto;
-  min-width: 30%;
+  width: 30%;
   height: 375px;
   border: 1px solid var(--gray);
   border-radius: 10px;
