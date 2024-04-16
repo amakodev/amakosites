@@ -109,7 +109,7 @@ const Gallery: React.FC = () => {
         <ul className="social">
           <li>
             <a
-              href="https://www.linkedin.com/in/foramako/"
+              href="https://www.linkedin.com/in/amakodev/"
               target="_blank"
               rel="noopener noreferrer"
             >
